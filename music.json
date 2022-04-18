@@ -1,0 +1,160 @@
+{
+    "songs": [
+        {
+            "title" : "Trainwreck",
+            "artist" : "BANKS",
+            "album" : "The Altar",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Beggin For Thread",
+            "artist" : "BANKS",
+            "album" : "Goddess",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Can You Tell Where I'm Coming From",
+            "artist" : "BANKS",
+            "album" : "Goddess",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Night Shift",
+            "artist" : "Lucy Dacus",
+            "album" : "Historian",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "dark sky",
+            "artist" : "pink sky",
+            "album" : "Meditations",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Wish You Well",
+            "artist" : "PVRIS",
+            "album" : "Use Me",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Dead Weight",
+            "artist" : "PVRIS",
+            "album" : "Use Me",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "My Way",
+            "artist" : "PVRIS",
+            "album" : "My Way",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Sugar On the Rim",
+            "artist" : "Hayley Williams",
+            "album" : "Petals For Armor",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Stand Out Fit In",
+            "artist" : "One Ok Rock",
+            "album" : "Eye of the Storm",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "The Rain Formally Known As Purple",
+            "artist" : "Chris Christodoulou",
+            "album" : "Risk Of Rain 2",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Chanson d'automne",
+            "artist" : "Chris Christodoulou",
+            "album" : "Risk of Rain",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "Crack Baby",
+            "artist" : "Mitski",
+            "album" : "Puberty 2",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Your Best American Girl",
+            "artist" :"Mitski",
+            "album" : "Puberty 2",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "I Want You",
+            "artist" : "Mitski",
+            "album" : "Retired from Sad, New Career in Business",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "A Burning Hill",
+            "artist" : "Mitski",
+            "album" : "Puberty 2",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Francis Forever",
+            "artist" : "Mitski",
+            "album" : "Bury Me At Makeout Creek",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Love Me More",
+            "artist" : "Mitski",
+            "album" : "Laurel Hell",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Thursday Girl",
+            "artist" : "Mitski",
+            "album" : "Puberty 2",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Oh Ana",
+            "artist" : "Mother Mother",
+            "album" : "Touch Up",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Ghosting",
+            "artist" : "Mother Mother",
+            "album" : "O My Heart",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Hayloft",
+            "artist" : "Mother Mother",
+            "album" : "O My Heart",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Verbatim",
+            "artist" : "Mother Mother",
+            "album" : "Touch Up",
+            "recommendedBy" : "rayne"
+        },
+        {
+            "title" : "Neighbour",
+            "artist" : "Mother Mother",
+            "album" : "Touch Up",
+            "recommendedBy" : "rayne" 
+        }
+    ],
+    "albums" : [
+        {
+            "title" : "A Million Miles Away",
+            "artist" : "Macross 82-99",
+            "recommendedBy" : "jennifer"
+        },
+        {
+            "title" : "boygenius",
+            "artist" : "Julien Baker, Phoebe Bridgers, and Lucy Dacus",
+            "recommendedBy" : "jennifer"
+        }
+    ]
+}
