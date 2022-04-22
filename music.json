@@ -143,6 +143,12 @@
             "artist" : "Mother Mother",
             "album" : "Touch Up",
             "recommendedBy" : "rayne" 
+        },
+        {
+            "title" : "January Rain",
+            "artist" : "PVRIS",
+            "album" : "Use Me",
+            "recommendedBy" : "jennifer"
         }
     ],
     "albums" : [
